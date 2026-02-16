@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "uuid": "574e8500-e7a1-4d50-8bae-c8dd39208807",
+      "username": "shiva",
+      "firstName": "",
+      "lastName": "",
+      "schedule": "Always",
+      "description": "",
+      "password": "[B2311862]f490d500ca8d7ddaf3607b4cffeb0bac0943c8f6e5044bcbf796c5968065763c",
+      "passwordDate": "20260102.142857889+0530",
+      "passwordHistory": [],
+      "badge": "",
+      "createdDate": "20260102.142857888+0530",
+      "lastModifiedDate": "20260102.142908436+0530",
+      "roles": [
+        "d8d2324b-a9c7-4676-bc0b-40c3494a5990"
+      ],
+      "extraProps": [
+        {
+          "propertyKey": "user.pin",
+          "propertyValue": ""
+        }
+      ],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    },
+    {
+      "uuid": "db19e2fe-5805-478b-b49a-0f16bc36934b",
+      "username": "pmahalik",
+      "schedule": "Always",
+      "password": "[AEBDC8C7]50fded57a30c476a9d2405ffd99e36b780ff4436559755396c7af0359b4288cc",
+      "passwordDate": "20260204.125206172+0530",
+      "passwordHistory": [],
+      "createdDate": "20251219.183654483+0530",
+      "lastModifiedDate": "20260204.125206172+0530",
+      "roles": [
+        "d8d2324b-a9c7-4676-bc0b-40c3494a5990",
+        "a7b5c064-c8ee-46e6-b56d-18dfff0272d1"
+      ],
+      "extraProps": [
+        {
+          "propertyKey": "user.pin",
+          "propertyValue": ""
+        }
+      ],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    }
+  ],
+  "roles": [
+    {
+      "uuid": "d8d2324b-a9c7-4676-bc0b-40c3494a5990",
+      "rolename": "Administrator",
+      "createdDate": "20251219.183654483+0530",
+      "lastModifiedDate": "20260102.142908383+0530"
+    },
+    {
+      "uuid": "a7b5c064-c8ee-46e6-b56d-18dfff0272d1",
+      "rolename": "Operator",
+      "createdDate": "20260204.125110001+0530",
+      "lastModifiedDate": "20260204.125116041+0530"
+    }
+  ]
+}
