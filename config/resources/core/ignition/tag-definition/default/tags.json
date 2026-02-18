@@ -1,8 +1,9 @@
 [
   {
     "valueSource": "memory",
-    "dataType": "String",
+    "dataType": "DateTime",
     "name": "Test",
+    "formatString": "yyyy-MM-dd h:mm:ss aa",
     "tagType": "AtomicTag"
   },
   {
