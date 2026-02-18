@@ -5,6 +5,11 @@
     "tagType": "UdtInstance"
   },
   {
+    "name": "Project_Config",
+    "typeId": "Project_Config",
+    "tagType": "UdtInstance"
+  },
+  {
     "name": "Current_Shift",
     "typeId": "shift",
     "tagType": "UdtInstance"
@@ -37,10 +42,5 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Project_Config",
-    "typeId": "Project_Config",
-    "tagType": "UdtInstance"
   }
 ]
