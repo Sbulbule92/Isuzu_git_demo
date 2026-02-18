@@ -1,6 +1,7 @@
 [
   {
     "valueSource": "memory",
+    "dataType": "String",
     "name": "Test",
     "tagType": "AtomicTag"
   },
